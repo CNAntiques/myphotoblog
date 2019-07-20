@@ -1,10 +1,10 @@
 # Site settings
-title: PHOTORAMA
+title: PHOTO BLOG
 email: ""
 description: "Photo Journal"
-url: "http://aferrero2707.github.io"
-baseurl: "/photorama"
-store_url: "http://aferrero2707.github.io"
+url: "http://CNAntiques.github.io"
+baseurl: "/myphotoblog"
+store_url: "http://CNAntiques.github.io"
 store_baseurl: "/photostore/archive/"
 facebook_username: ""
 twitter_username: ""
